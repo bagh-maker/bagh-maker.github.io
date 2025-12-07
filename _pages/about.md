@@ -7,6 +7,5 @@ redirect_from:
   - /about.html
 ---
 ![banner](/assets/images/banner.jpg)
-#你好！我是QWQ-Knight。
-Hello！I'm QWQ-Knight,a student major in information security at Jiang Xi Science and Technology University.
-[To learn more](/about/){; .btn .btn--primary}
+#你好！我是毛小群。
+Hello！I'm XiaoQun Mao,a student major in information security at Jiang Xi Science and Technology University.
