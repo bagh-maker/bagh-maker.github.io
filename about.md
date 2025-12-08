@@ -10,7 +10,7 @@ redirect_from:
 This is my first personal homepage, used to document personal growth, projects, and learning experiences.
 I'm interested in cybersecurity, open-source technology, and programming, and I hope to become a cybersecurity engineer or developer in the future. -->
 # 站点基础信息
-title: 毛小群
+title：毛小群
 subtitle: A boiling heart.
 email: 你的邮箱地址@xxx.com # 可替换为自己的邮箱
 description: 江理学子 | 信息安全专业 | 网络安全爱好者
